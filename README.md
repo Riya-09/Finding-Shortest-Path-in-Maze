@@ -26,3 +26,4 @@ iv)Choose your own start and finish point.
 v)Even can set a maze by yourself using wall.
 
 vi)The above search for the shortest path using dijktra or A-star Algorithm.
+![](screen-capture-6.gif)
